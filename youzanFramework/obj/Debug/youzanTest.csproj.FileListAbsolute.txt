@@ -1,0 +1,9 @@
+D:\Users\Jason\source\repos\youzanTest\youzanTest\obj\Debug\youzanTest.csproj.CoreCompileInputs.cache
+D:\Users\Jason\source\repos\youzanTest\youzanTest\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Jason\source\repos\youzanTest\youzanTest\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Jason\source\repos\youzanTest\youzanTest\obj\Debug\youzanTest.csproj.CopyComplete
+D:\Users\Jason\source\repos\youzanTest\youzanTest\bin\Debug\youzanFramework.exe.config
+D:\Users\Jason\source\repos\youzanTest\youzanTest\bin\Debug\youzanFramework.exe
+D:\Users\Jason\source\repos\youzanTest\youzanTest\bin\Debug\youzanFramework.pdb
+D:\Users\Jason\source\repos\youzanTest\youzanTest\obj\Debug\youzanFramework.exe
+D:\Users\Jason\source\repos\youzanTest\youzanTest\obj\Debug\youzanFramework.pdb

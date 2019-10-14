@@ -1,0 +1,9 @@
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\bin\Release\youzanCsharpFramework.dll
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\bin\Release\youzanCsharpFramework.pdb
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\bin\Release\Newtonsoft.Json.dll
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\bin\Release\Newtonsoft.Json.xml
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.csprojAssemblyReference.cache
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.csproj.CoreCompileInputs.cache
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.csproj.CopyComplete
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.dll
+D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.pdb
