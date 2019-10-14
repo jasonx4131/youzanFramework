@@ -11,7 +11,8 @@ namespace youzanFramework
     {
         static void Main(string[] args)
         {
-            Silent silent = new Silent("c93c8366df87d6d8e2", "ccb43a58999d72840edcf1fcfdf58be9", 44538248);
+            ulong kdtId = 0;
+            Silent silent = new Silent("client_id", "client_appsecret", kdtId);
             OauthToken.TokenData silenToken = silent.GetToken();
             string token = silenToken.Token;
 

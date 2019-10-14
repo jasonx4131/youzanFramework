@@ -1,0 +1,12 @@
+D:\Personal\MyProjects\youzanFramework\youzanDemo\bin\Release\youzanDemo.exe.config
+D:\Personal\MyProjects\youzanFramework\youzanDemo\bin\Release\youzanDemo.exe
+D:\Personal\MyProjects\youzanFramework\youzanDemo\bin\Release\youzanDemo.pdb
+D:\Personal\MyProjects\youzanFramework\youzanDemo\bin\Release\youzanCsharpFramework.dll
+D:\Personal\MyProjects\youzanFramework\youzanDemo\bin\Release\Newtonsoft.Json.dll
+D:\Personal\MyProjects\youzanFramework\youzanDemo\bin\Release\youzanCsharpFramework.pdb
+D:\Personal\MyProjects\youzanFramework\youzanDemo\bin\Release\Newtonsoft.Json.xml
+D:\Personal\MyProjects\youzanFramework\youzanDemo\obj\Release\youzanDemo.csprojAssemblyReference.cache
+D:\Personal\MyProjects\youzanFramework\youzanDemo\obj\Release\youzanDemo.csproj.CoreCompileInputs.cache
+D:\Personal\MyProjects\youzanFramework\youzanDemo\obj\Release\youzanDemo.csproj.CopyComplete
+D:\Personal\MyProjects\youzanFramework\youzanDemo\obj\Release\youzanDemo.exe
+D:\Personal\MyProjects\youzanFramework\youzanDemo\obj\Release\youzanDemo.pdb

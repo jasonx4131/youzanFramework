@@ -7,3 +7,12 @@ D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\yo
 D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.csproj.CopyComplete
 D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.dll
 D:\Users\Jason\source\repos\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.pdb
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\bin\Release\youzanCsharpFramework.dll
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\bin\Release\youzanCsharpFramework.pdb
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\bin\Release\Newtonsoft.Json.dll
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\bin\Release\Newtonsoft.Json.xml
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.csprojAssemblyReference.cache
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.csproj.CoreCompileInputs.cache
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.csproj.CopyComplete
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.dll
+D:\Personal\MyProjects\youzanFramework\youzanCsharpFramework\obj\Release\youzanCsharpFramework.pdb
